@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Abdullah Saharti
+Abdullah Saharti
 Digital Solution
 
 Show Contacts
